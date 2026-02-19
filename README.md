@@ -9,8 +9,6 @@ A simple and lightweight fix that removes black bars and forces **OMORI** to run
 Tired of playing OMORI with black borders on the sides of your screen? This mod patches the game's rendering to eliminate those black bars, providing a seamless fullscreen experience across all modern displays.
 
 -   **Forces true fullscreen:** No more borderless windowed mode with black bars.
--   **Dynamic resolution:** Adapts to your current desktop resolution.
--   **Lightweight:** Just drop in the files and play.
 
 ## 📸 Screenshots
 
